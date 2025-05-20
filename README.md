@@ -1,1 +1,1 @@
-The dataset for the paper "Explainable machine learning-based prediction of depression severity in medical students".
+The dataset for the paper "A Hierarchical Bayesian Predictive Analytics Model for Forecasting PHQ 9 Depression Severity in Medical Students".
